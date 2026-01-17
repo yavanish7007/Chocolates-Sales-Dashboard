@@ -85,3 +85,5 @@ Business Impact & Insights
 6. Screenshots / Demos
 
 📷 Dashboard Preview:
+
+![Chocolates Sales Dashboard](Snapshot%20of%20Dashboard.png)
