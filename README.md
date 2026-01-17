@@ -39,6 +39,7 @@ Sales and operations teams often struggle to analyze large volumes of sales, shi
 
 Without a centralized dashboard, identifying profitable products, cost inefficiencies, and sales trends becomes difficult.
 
+
 • Goal of the Dashboard
 
 To deliver an interactive analytics solution that:
@@ -51,7 +52,8 @@ To deliver an interactive analytics solution that:
 
 • Supports data-driven decision-making
 
-• Walkthrough of Key Visuals
+
+Walkthrough of Key Visuals
 
 🔑 Key KPIs (Top Section)
 
@@ -69,11 +71,13 @@ To deliver an interactive analytics solution that:
 
 • Month-over-Month Sales Change for trend monitoring
 
+
 📈 Boxes by Start of Month (Line Chart)
 
 • Shows monthly box distribution patterns
 
 • Helps identify seasonality and demand changes
+
 
 🚚 Shipment Analysis (Bar Chart)
 
