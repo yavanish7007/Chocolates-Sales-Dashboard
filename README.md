@@ -1,16 +1,16 @@
 # Chocolates-Sales-Dashboard
 
-1. Project Title / Headline
+### 1. Project Title / Headline
 
 🍫 Chocolates Sales Dashboard – Sales & Profit Analytics
 An interactive Power BI dashboard designed to analyze chocolate sales performance across products, regions, shipments, costs, and profitability.
 
-2. Short Description / Purpose
+### 2. Short Description / Purpose
 
 The Chocolates Sales Dashboard provides a comprehensive view of sales, shipments, costs, and profit metrics across multiple chocolate products and countries.
 It helps business users and data analysts quickly identify trends, top-performing products, and profitability drivers.
 
-3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -20,14 +20,14 @@ The dashboard was built using the following tools and technologies:
 🧩 Data Modeling – Relationships established between sales, products, shipments, and geography tables.
 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+### 4. Data Source
 
 Source:Tutorial Dataset (Educational / Practice Use)
 
 The dataset used in this project was obtained from a tutorial,focused on building sales analytics dashboards in Power BI.
 It is a sample business dataset for learning and demonstration purposes and represents fictional chocolate sales data, including products, shipments, costs, and profit metrics.
 
-5. Features / Highlights
+### 5. Features / Highlights
 
 • Business Problem
 Sales and operations teams often struggle to analyze large volumes of sales, shipment, and cost data in a single view.
@@ -82,7 +82,7 @@ Business Impact & Insights
 • Operational Decisions: Support strategic planning using real-world KPIs
 
 
-6. Screenshots / Demos
+### 6. Screenshots / Demos
 
 📷 Dashboard Preview:
 
